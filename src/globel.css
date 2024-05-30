@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap");
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+code {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.error-message {
+  color: #8387c3;
+  font-weight: 600;
+  font-size: 14px;
+}
